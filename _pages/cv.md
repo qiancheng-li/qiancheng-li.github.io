@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,55 +10,22 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------ 
+* B.S. in Electrical Engineering, University of Washington, 2024
+* PhD student in Electrical and Computer Engineering, University of Washington, 2029 (Expected)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Experience
+------
+### NEWT Lab, University of Washington, WA
+> Researcher, under the supervision of Prof. Akshay Gadre Jun 2023–Jun 2024
+* Outdoor tracking and localization with LoRa RSSI data.
+* Visualize wireless signal propagation and its changes with Meta Quest 3 headset.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Information Processing Lab, University of Washington, WA
+> Researcher, under the supervision of Prof. Jenq-Neng Hwang Jun 2023–Dec 2023
+* Classify fish age based on otolith images and metadata.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Awards
+------
+* T Challenge 2024 Finalist, The Most Engaging Presentation Award
+* Magna Cum Laude Undergraduate (Top 3.5%)
